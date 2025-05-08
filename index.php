@@ -114,7 +114,7 @@ requireLogin();
               <div class="card-body">
                 <h5 class="card-title">Selamat Datang</h5>
                 <p class="card-text">
-                  Selamat datang di CMS Sederhana. Gunakan menu di sebelah kiri untuk mengelola konten website Anda.
+                  welcome to my cms ini buatan pertamaku yang sederhana
                 </p>
               </div>
             </div>
